@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moneyaccount/static/css/main.290ecceb.css",
+    "main.js": "/moneyaccount/static/js/main.2f4c9665.js",
+    "index.html": "/moneyaccount/index.html",
+    "main.290ecceb.css.map": "/moneyaccount/static/css/main.290ecceb.css.map",
+    "main.2f4c9665.js.map": "/moneyaccount/static/js/main.2f4c9665.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.290ecceb.css",
+    "static/js/main.2f4c9665.js"
+  ]
+}
